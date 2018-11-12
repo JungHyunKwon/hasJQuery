@@ -7,6 +7,7 @@ try {
 		'use strict';
 
 		/**
+		 * @name hasJQuery
 		 * @since 2017-12-06
 		 * @return {boolean}
 		 */
