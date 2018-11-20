@@ -12,7 +12,7 @@ try {
 		 * @return {boolean}
 		 */
 		window.hasJQuery = function() {
-			return typeof window.jQuery === 'function';
+			return typeof jQuery === 'function';
 		};
 	})();
 }catch(e) {
