@@ -7,11 +7,11 @@ try {
 		'use strict';
 
 		/**
-		 * @name hasJQuery
+		 * @name hasJquery
 		 * @since 2017-12-06
 		 * @return {boolean}
 		 */
-		window.hasJQuery = function() {
+		window.hasJquery = function() {
 			return typeof window.jQuery === 'function';
 		};
 	})();

@@ -1,2 +1,2 @@
-# hasJQuery v1.0.0
+# hasJquery v1.0.0
 제이쿼리가 있는지 판단할 수 있습니다.
